@@ -19,11 +19,15 @@ This policy applies to all software products at 383.
       1. Entry criteria: Entry criteria, also known as test initiation criteria, refers to the set of conditions that must be met before testing can begin.          These criteria ensure that the software is in a stable and testable state and that the testing can proceed effectively and efficiently.
       2. Exit criteria: Exit criteria, also known as test completion criteria, refer to the conditions that must be met before testing can          be              considered complete and the software can be released. These criteria are established to ensure that the software has been adequately tested and            meets the quality standards and requirements of the stakeholders.
       3. Suspension criteria: Suspension criteria refers to the conditions or circumstances under which the testing of software is temporarily halted or            suspended. The suspension of software testing is usually done to address issues that have been discovered during the testing process or to allow            for changes to be made to the software.
-      4. Key assumptions:
+      4. Key assumptions: 
       5. Other assumptions:
       6. Constraints for testing:
       7. Test approach: 
       8. Testing deliverables:
+
+## Next steps
+### Peer review
+Upon completion of the Test Plan it will be sent for a peer review to a more senior member of the QA team
 
 ## Conclusion
 
