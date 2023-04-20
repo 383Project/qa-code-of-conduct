@@ -30,4 +30,4 @@ This policy applies to all software products at 383.
 Upon completion of the Test Plan it will be sent for a peer review to a more senior member of the QA team
 
 ## Conclusion
-
+In conclusion, our QA team plays a critical role in the software development process. Creating test plans is an essential part of their job, and it requires a deep understanding of the software requirements, test scope, and the creation of test cases. Test plans help to ensure that the software is of high quality and meets the needs of the end-users.
