@@ -1,6 +1,6 @@
 # Compatibility Policy
 ## Quality Assurance Compatibility Testing
-Compatibility testing is one of the essential components of quality assurance. Compatibility testing ensures that the software can run on different platforms, operating systems, and hardware configurations. It also ensures that the software can work seamlessly with other software, hardware, and systems.
+Compatibility testing is one of the essential components of quality assurance. It ensures that the software can run on different platforms, operating systems, and hardware configurations. It also ensures that the software can work seamlessly with other software, hardware, and systems.
 ## Importance of Compatibility Testing
 Compatibility testing is essential because it verifies that the software can work consistently and predictably across different platforms, operating systems, and hardware configurations. It ensures that customers have a positive experience with the software, which can lead to increased customer satisfaction, loyalty, and ultimately, revenue. Compatibility testing also helps to identify potential issues before the software is released to the market. This helps to reduce the risk of costly and time-consuming bug fixes and recalls.
 ## How we implement Compatibility Testing
