@@ -2,7 +2,7 @@
 ## Quality Assurance Regression Testing
 One of the most important aspects of quality assurance is regression testing. Regression testing is the process of testing a software application to ensure that new changes or updates to the application have not introduced any new bugs or issues.
 ## Importance of Regression Testing
-Regression testing is essential for ensuring that the quality of the software is maintained throughout the development process. Software applications are complex and consist of multiple components that interact with each other. Any changes or updates to one component can have unintended consequences on other components. Regression testing ensures that the changes made to one component do not affect the overall functioning of the application.
+Regression testing is essential for ensuring that the quality of the software is maintained throughout the development process. Software applications are complex and consist of multiple components that interact with each other. Any changes or updates to one component can have unintended consequences on other components. Regression testing ensures that the changes made to one component do not affect the overall functioning of the application or product.
 ## Type of Regression Testing
 We perform Manual regression testing testing the application to ensure that it still functions correctly after changes are made.
 ## How we implement Regression Testing
