@@ -1,4 +1,9 @@
 # Regression Policy
+
+[<< Return to QA code of conduct homepage](https://github.com/383Project/qa-code-of-conduct)
+
+[<< Return to Engineering code of conduct homepage](https://github.com/383Project/engineering-code-of-conduct)
+
 ## Quality Assurance Regression Testing
 One of the most important aspects of quality assurance is regression testing. Regression testing is the process of testing a software application to ensure that new changes or updates to the application have not introduced any new bugs or issues.
 ## Importance of Regression Testing
@@ -9,3 +14,7 @@ We perform Manual regression testing testing the application to ensure that it s
 Regression testing is included in so many different situations within our product deliveries. We regression test apps if they’re going through a software update. We regression test our products at the end of each Sprint to ensure that phase of delivery to the client is of good quality. Anytime there is an improvement/functional change or upgrade we run a relevant regression test script to ensure we’re delivering the best possible quality product.
 ## Conclusion
 In conclusion, regression testing is a critical aspect of quality assurance. It helps to ensure that software applications are functioning correctly and meeting the needs of their users. Whether using manual or automated testing methods, regression testing should be a regular part of the development process to ensure that software applications are of the highest quality.
+
+[<< Return to QA code of conduct homepage](https://github.com/383Project/qa-code-of-conduct)
+
+[<< Return to Engineering code of conduct homepage](https://github.com/383Project/engineering-code-of-conduct)
