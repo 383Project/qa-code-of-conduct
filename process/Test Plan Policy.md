@@ -1,6 +1,7 @@
 # Test Plan Policy
 
 [<< Return to QA code of conduct homepage](https://github.com/383Project/qa-code-of-conduct)
+
 [<< Return to Engineering code of conduct homepage](https://github.com/383Project/engineering-code-of-conduct)
 
 
@@ -55,4 +56,5 @@ Upon completion of the Test Plan it will be sent for a peer review to a more sen
 Our QA team plays a critical role in the software development process. Creating test plans is an essential part of their job, and it requires a deep understanding of the software requirements, test scope, and the creation of test cases. Test plans help to ensure that the software is of high quality and meets the needs of the end-users.
 
 [<< Return to QA code of conduct homepage](https://github.com/383Project/qa-code-of-conduct)
+
 [<< Return to Engineering code of conduct homepage](https://github.com/383Project/engineering-code-of-conduct)
