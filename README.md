@@ -5,6 +5,7 @@ At 383, we are committed to delivering high-quality products, services, and proc
 This Quality Assurance Code of Conduct outlines the principles and best practices that we expect all team members to adhere to in order to ensure that we consistently deliver products and services of the highest quality. By working together and upholding these standards, we can achieve our goal of providing exceptional value to our customers while maintaining the highest levels of quality.
 
 This code of conduct contributes as part of our main engineering code of conduct which can be found here:
+
 [Engineering code of conduct homepage](https://github.com/383Project/engineering-code-of-conduct)
 
 ## What is manual Quality Assurance?
