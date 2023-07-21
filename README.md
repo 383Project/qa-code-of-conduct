@@ -26,8 +26,12 @@ At 383 our QA process involves all of these and more.
 
 ## Contents
 
-[Compatiblity Testing Policy](https://github.com/383Project/qa-code-of-conduct/blob/main/process/Compatiblity%20Testing%20Policy.md))
+[Compatiblity Testing Policy](https://github.com/383Project/qa-code-of-conduct/blob/main/process/Compatiblity%20Testing%20Policy.md)
+
 [Defect Creation Policy](https://github.com/383Project/qa-code-of-conduct/blob/main/process/Defect%20Creation%20Policy.md)
+
 [Regression Testing Policy](https://github.com/383Project/qa-code-of-conduct/blob/main/process/Regression%20Testing%20Policy.md)
+
 [Test Plan Policy](https://github.com/383Project/qa-code-of-conduct/blob/main/process/Test%20Plan%20Policy.md)
+
 [User Acceptance Testing Policy](https://github.com/383Project/qa-code-of-conduct/blob/main/process/User%20Acceptance%20Testing%20Policy.md)
