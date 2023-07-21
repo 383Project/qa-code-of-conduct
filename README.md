@@ -26,13 +26,11 @@ At 383 our QA process involves all of these and more.
 
 ## Contents
 
-1. General Rules at 383
-2. QA Process
-      1. Test Plan Policy
-      2. Test Cases Policy
-      3. Test Summary Policy
-      4. Functional Testing Policy
-      5. Compatibility Testing Policy
-      6. Regression Testing Policy
-      7. Exploratory Testing Policy
-3. 
+[Compatiblity Testing Policy](process/Compatiblity Testing Policy.md)
+Update Compatiblity Testing Policy.md
+Defect Creation Policy.md
+Regression Testing Policy.md
+Update Regression Testing Policy.md
+Test Plan Policy.md
+Update Test Plan Policy.md
+User Acceptance Testing Policy.md
